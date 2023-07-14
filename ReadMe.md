@@ -60,12 +60,26 @@ As a consumer finance company which specialises in lending various types of loan
 
 ### Insights
 
-
 - Age is the main factor to look into
+
 - Occupation of the Applicant & their total income
+
 - Number of family member
+
 - Realty Ownership / Car Ownership
-- Methods to prevent company from loosing money
+
+- Methods to prevent company from loosing money :
+
+                                          - Denying the Loan
+                                              
+                                          - Reducing the Loan Amount
+                                              
+                                          - Lending at Higher Interest Rate
+- Improve the data by collecting ：
+
+                           - Expenses Pattern
+                              
+                           - Assets
 
 
 .
