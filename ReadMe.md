@@ -37,7 +37,6 @@ As a consumer finance company which specialises in lending various types of loan
 #### Use data analysis skill to find out :
 - Total number of Transactor vs Defaulter
 -  Analyse Defaulter data patterns
--  How does Previous Application affect Current Application
 -  Suggest methods to improve/ reduce the number of Defaulter
 
 ## Techniques used in this study
